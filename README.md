@@ -2,4 +2,4 @@
 
 ### Steam Launch Options
 
-`-novid -console -high -fullscreen -w 1280 -h 960 -tickrate 128 -refresh 144`
+`-novid -console -high -tickrate 128 -refresh 144`
