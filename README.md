@@ -4,9 +4,8 @@
 
 ### Video Settings
 
-- **Resolution:** 1280x960
-- **Aspect Ratio:** 4:3
-- **Scaling Mode:** Stretched
+- **Resolution:** 1920x1080
+- **Aspect Ratio:** 16:9
 - **Color Mode:** Computer Monitor
 - **Brightness:** 110%
 - **Display Mode:** Fullscreen
